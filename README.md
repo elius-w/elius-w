@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @elius-w
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Hélio Alves! <img alt = gif src ="hand-waving.gif" width= "30"/>
 
-<!---
-elius-w/elius-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <code>Hello World, devs!</code>
+
+💻 Computer Scientist<br>
+💻 Full Stack Developer<br>
+<br>
+
+## About me:
+
+- 🔭 I am graduated in Computer Science at Federal University of Alagoas (UFAL/BRAZIL).
+- 🌱 I'm a Web Developer currently studying the Back-end technologies and working on projects focusing on the MERN stack.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun facts: I love Chess and to play guitar and keyboards!
+<br>
+
+## Current GitHub Stats:
+<div align="left">
+  <a href="https://github.com/elius-w">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elius-w&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elius-w&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+## Techs I'm used to work with:
