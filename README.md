@@ -1,14 +1,13 @@
 # Hi there, I'm Hélio ! <img alt = gif src ="hand-waving.gif" width= "30"/>
 
 💻 Desenvolvedor Frontend Junior<br>
-<br>
 
 ## About me:
 
-🌱 Atualmente estou focado nos estudos com ReactJS, JavaScript e TypeScript.
-👯 Estou procurando colaborar em projetos que envolvam as tecnologias que estou estudando.
-👨🏽‍💻 Sou especialista em sites e sistemas web usando wordpress.
-🚀 Objetivo: Começar a carreira como desenvolvedor web Full Stack
+🌱 Atualmente estou focado nos estudos com ReactJS, JavaScript e TypeScript.<br>
+👯 Estou procurando colaborar em projetos que envolvam as tecnologias que estou estudando.<br>
+👨🏽‍💻 Sou especialista em sites e sistemas web usando wordpress.<br>
+🚀 Objetivo: Começar a carreira como desenvolvedor web Full Stack<br>
 
 <br>
 
