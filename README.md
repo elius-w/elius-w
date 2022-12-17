@@ -1,6 +1,6 @@
 # Hi there, I'm Hélio ! <img alt = gif src ="hand-waving.gif" width= "30"/>
 
-💻 Desenvolvedor Frontend Junior<br>
+💻 Desenvolvedor Front-end Junior<br>
 
 ## About me:
 
