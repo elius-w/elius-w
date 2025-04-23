@@ -7,7 +7,7 @@
 🌱Atualmente estou focado nos estudos com ReactJS, JavaScript e TypeScript.<br>
 👯Estou procurando colaborar em projetos que envolvam as tecnologias que estou estudando.<br>
 👨🏽‍💻Especialista em sites e sistemas web usando wordpress.<br>
-🚀Objetivo: Começar a carreira como desenvolvedor web Full Stack.<br>
+<!--🚀Objetivo: Começar a carreira como desenvolvedor web Full Stack.<br>-->
 
 <br>
 
